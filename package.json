@@ -1,0 +1,23 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "this is my acitivity in database 2",
+  "main": "index.js",
+  "scripts": { 
+    "agujar-prob1": "node agujar-prob1.js",
+    "agujar-prob2": "node agujar-prob2.js",
+    "agujar-prob3": "node agujar-prob3.js",
+    "agujar-prob4": "node agujar-prob4.js",
+    "agujar-prob5": "node agujar-prob5.js",
+    "agujar-prob6": "node agujar-prob6.js",
+    "agujar-prob7": "node agujar-prob7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
